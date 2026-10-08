@@ -61,7 +61,7 @@ export const Services: React.FC = () => {
       title: '“CRÜ x By Invite Only” Masterclasses',
       subtitle: 'A Room Full Of People Ready To Be Remembered',
       description:
-        'Curated intimate in-person and closed-door salons in Mumbai for ambitious leaders, founders, and creators ready to unlock their personal narrative alongside peers.',
+        'Curated intimate in-person and closed-door salons in Kolkata for ambitious leaders, founders, and creators ready to unlock their personal narrative alongside peers.',
       icon: Users,
       deliverables: [
         'Exclusive Masterclass Workbooks & Strategy Blueprints',
@@ -70,8 +70,8 @@ export const Services: React.FC = () => {
         'Post-Session Actionable 30-Day Launch Toolkit',
       ],
       audience: 'Selected cohort of Founders, CXOs & Rising Industry Leaders',
-      commitment: 'By-Invite Application Only (Mumbai)',
-      highlight: 'Live in Mumbai',
+      commitment: 'By-Invite Application Only (Kolkata)',
+      highlight: 'Live in Kolkata',
     },
     {
       id: '04',

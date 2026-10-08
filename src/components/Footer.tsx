@@ -28,7 +28,7 @@ export const Footer: React.FC = () => {
 
             <div className="pt-1 text-xs text-neutral-400 flex items-center gap-2">
               <MapPin className="w-3.5 h-3.5 text-[#FF4D00]" />
-              <span>Mumbai, India · Founder-led by Pragya Bagri</span>
+              <span>Kolkata, India · Founder-led by Pragya Bagri</span>
             </div>
           </div>
 
@@ -94,12 +94,12 @@ export const Footer: React.FC = () => {
               </li>
               <li>
                 <a
-                  href="https://www.google.com/maps/search/?api=1&query=Mumbai%2C+India"
+                  href="https://www.google.com/maps/search/?api=1&query=Kolkata%2C+India"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-[#FF4D00] transition-colors"
                 >
-                  <span>Location: Mumbai, India</span>
+                  <span>Location: Kolkata, India</span>
                 </a>
               </li>
               <li className="text-xs text-neutral-400 pt-1">
@@ -118,7 +118,7 @@ export const Footer: React.FC = () => {
 
           <div className="flex items-center gap-6">
             <span className="text-neutral-400">
-              Mumbai · Kolkata · India
+              Kolkata · India
             </span>
             <button
               onClick={scrollToTop}

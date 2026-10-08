@@ -52,10 +52,10 @@ export const WorkGallery: React.FC = () => {
       id: 'w3',
       category: 'Masterclass',
       title: '“A Room Full Of People Ready To Be Remembered”',
-      clientLabel: 'CRÜ x By Invite Only · Mumbai Cohort',
+      clientLabel: 'CRÜ x By Invite Only · Kolkata Cohort',
       highlight: 'Closed-Door Salon & Executive Workshop',
       description:
-        'An intimate in-person masterclass held at a premier Mumbai venue bringing together ambitious founders and operators to build portable reputational equity.',
+        'An intimate in-person masterclass held at a premier Kolkata venue bringing together ambitious founders and operators to build portable reputational equity.',
       outcomeTag: 'Curated 18-Leader Executive Cohort',
       aestheticBg: 'bg-[#FAF6F0]',
       accentColor: '#141413',
@@ -197,7 +197,7 @@ export const WorkGallery: React.FC = () => {
                     </div>
                     <div className="p-2.5 rounded-lg bg-white/80 border border-[#141413]/5">
                       <p className="text-xs font-bold text-[#141413]">“A Room Full Of People Ready To Be Remembered”</p>
-                      <p className="text-[10px] text-[#68655E] mt-0.5">Mumbai Cohort Salon</p>
+                      <p className="text-[10px] text-[#68655E] mt-0.5">Kolkata Cohort Salon</p>
                     </div>
                   </div>
                 )}

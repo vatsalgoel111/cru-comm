@@ -18,7 +18,7 @@ export const MasterclassSpotlight: React.FC = () => {
               <span className="w-2 h-2 rounded-full bg-[#FF4D00]" />
               <span>crü x by invite only</span>
               <span className="text-white/30" aria-hidden="true">·</span>
-              <span>Mumbai Executive Salon</span>
+              <span>Kolkata Executive Salon</span>
             </div>
 
             <h2 className="font-display text-2xl sm:text-3xl lg:text-4xl font-bold text-white leading-[1.2] text-balance mb-4">
@@ -43,10 +43,10 @@ export const MasterclassSpotlight: React.FC = () => {
               <div className="p-4 rounded-2xl bg-white/5 border border-white/10">
                 <div className="flex items-center gap-2 text-[#FF4D00] text-sm font-bold mb-1">
                   <MapPin className="w-4 h-4" />
-                  <span>Prime Mumbai Venue</span>
+                  <span>Prime Kolkata Venue</span>
                 </div>
                 <p className="text-xs text-neutral-300">
-                  Hosted at design-led private venues in Mumbai. Catering and materials provided.
+                  Hosted at design-led private venues in Kolkata. Catering and materials provided.
                 </p>
               </div>
             </div>
@@ -61,7 +61,7 @@ export const MasterclassSpotlight: React.FC = () => {
                 <ArrowRight className="w-4 h-4" />
               </a>
               <span className="text-xs text-neutral-400 text-center sm:text-left">
-                Applications open for upcoming Mumbai cohort
+                Applications open for upcoming Kolkata cohort
               </span>
             </div>
           </div>
@@ -80,7 +80,7 @@ export const MasterclassSpotlight: React.FC = () => {
                 <div className="space-y-1">
                   <p className="text-[11px] font-mono tracking-wider opacity-90">CRÜ MASTERCLASS WORKBOOK</p>
                   <h3 className="font-display text-2xl font-black">EXECUTIVE NARRATIVE</h3>
-                  <p className="text-xs opacity-80 pt-1">Bombay Cohort · Personal Brand Diagnostic</p>
+                  <p className="text-xs opacity-80 pt-1">Kolkata Cohort · Personal Brand Diagnostic</p>
                 </div>
               </div>
 

@@ -43,7 +43,7 @@ export const Hero: React.FC = () => {
               <span>Founder & CXO Personal Branding Agency</span>
               <span className="text-[#141413]/30" aria-hidden="true">·</span>
               <span className="text-[#68655E] flex items-center gap-1">
-                <MapPin className="w-3 h-3 text-[#FF4D00]" /> Mumbai, India
+                <MapPin className="w-3 h-3 text-[#FF4D00]" /> Kolkata, India
               </span>
             </div>
 
@@ -105,7 +105,7 @@ export const Hero: React.FC = () => {
                     <CruLogo className="w-11 h-11" variant="orange-on-white" />
                     <div>
                       <div className="font-display font-bold text-base text-[#141413]">CRÜ Communications</div>
-                      <div className="text-xs text-[#68655E]">Personal Branding Agency · Mumbai</div>
+                      <div className="text-xs text-[#68655E]">Personal Branding Agency · Kolkata</div>
                     </div>
                   </div>
                   <span className="inline-flex items-center gap-1 text-xs font-semibold text-[#FF4D00] bg-[#FF4D00]/10 px-2.5 py-1 rounded-md">
@@ -161,7 +161,7 @@ export const Hero: React.FC = () => {
                   “A Room Full Of People Ready To Be Remembered”
                 </div>
                 <div className="text-[11px] text-neutral-400 mt-1">
-                  Invite-only executive sessions · Mumbai
+                  Invite-only executive sessions · Kolkata
                 </div>
               </div>
 

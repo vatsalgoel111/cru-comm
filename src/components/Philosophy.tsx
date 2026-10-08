@@ -59,7 +59,7 @@ export const Philosophy: React.FC = () => {
                 03. Curated In Intimacy, Scaled In Public
               </h3>
               <p className="text-[#52504A] leading-relaxed text-sm sm:text-base">
-                From our private invite-only masterclasses in Mumbai to high-impact digital storytelling, we work with a tightly capped roster of founders. Every word, appearance, and strategic move is intentionally designed to reflect the real human behind the enterprise.
+                From our private invite-only masterclasses in Kolkata to high-impact digital storytelling, we work with a tightly capped roster of founders. Every word, appearance, and strategic move is intentionally designed to reflect the real human behind the enterprise.
               </p>
             </div>
           </div>
@@ -106,7 +106,7 @@ export const Philosophy: React.FC = () => {
                     Pragya founded CRÜ Communications to bridge the chasm between raw founder ambition and public perception. Having experienced firsthand the highs, burnouts, and reinventions of building in fast-growth environments, she partners with CXOs to craft voices that feel authentic, vulnerable, and unstoppable.
                   </p>
                   <p className="text-xs text-neutral-400">
-                    Alumna of FLAME University · Based in Mumbai & Kolkata · Leading executive personal branding and invite-only masterclasses.
+                    Alumna of FLAME University · Based in Kolkata · Leading executive personal branding and invite-only masterclasses.
                   </p>
                 </div>
 

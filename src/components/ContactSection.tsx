@@ -151,15 +151,15 @@ export const ContactSection: React.FC = () => {
                 <div>
                   <div className="text-xs text-[#68655E] font-medium">Headquarters</div>
                   <a
-                    href="https://www.google.com/maps/search/?api=1&query=Mumbai%2C+India"
+                    href="https://www.google.com/maps/search/?api=1&query=Kolkata%2C+India"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-sm font-bold text-[#141413] hover:text-[#FF4D00] transition-colors flex items-center gap-1.5"
                   >
-                    Mumbai, India
+                    Kolkata, India
                     <span className="text-xs font-normal text-[#FF4D00] underline">(Open Google Maps)</span>
                   </a>
-                  <p className="text-[11px] text-[#8A8780] mt-0.5">Serving founders across Mumbai, India & Global</p>
+                  <p className="text-[11px] text-[#8A8780] mt-0.5">Serving founders across Kolkata, India & Global</p>
                 </div>
               </div>
             </div>

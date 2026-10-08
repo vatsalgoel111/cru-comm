@@ -31,9 +31,9 @@ export const Testimonials: React.FC = () => {
     {
       id: 't3',
       quote:
-        'Attending ‘A Room Full Of People Ready To Be Remembered’ in Mumbai completely changed how I think about legacy. Pragya’s live feedback was razor sharp.',
+        'Attending ‘A Room Full Of People Ready To Be Remembered’ in Kolkata completely changed how I think about legacy. Pragya’s live feedback was razor sharp.',
       author: 'Executive Cohort Member',
-      role: 'crü x by invite only Mumbai Salon',
+      role: 'crü x by invite only Kolkata Salon',
       badge: 'Masterclass Cohort',
     },
   ];

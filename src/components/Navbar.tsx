@@ -101,7 +101,7 @@ export const Navbar: React.FC = () => {
                 Build Your CRÜ
               </a>
               <div className="text-center text-xs text-[#68655E] pt-1">
-                Mumbai, India · Founder-led by Pragya Bagri
+                Kolkata, India · Founder-led by Pragya Bagri
               </div>
             </div>
           </nav>
